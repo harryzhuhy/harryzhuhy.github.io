@@ -23,7 +23,7 @@ repository               : "harryzhuhy/harryzhuhy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "facezhy.png"
   name             : "Zhu Haoyu"
   pronouns         : # example: "she/her"  
   bio              : "Mphil Student "
