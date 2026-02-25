@@ -12,4 +12,4 @@ I'm a second year Mphil student from [EEE JC STEM Lab of ML&CV](https://www.eie.
 
 I'm very fortunate to be advised by [Dr.Wang](https://wangyintu.github.io) and [Prof.Chau](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/) from the [school of EEE the Hong Kong PolyU](https://www.polyu.edu.hk/eee/).
 
-You can find my CV here[Zhu Haoyu's Curriculum Vitae]()
+You can find my CV here[Zhu Haoyu's Curriculum Vitae](../assets/Haoyu_ZHU_Resume.pdf)
